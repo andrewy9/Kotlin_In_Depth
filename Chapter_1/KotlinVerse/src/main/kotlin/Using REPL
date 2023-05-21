@@ -1,0 +1,8 @@
+REPL (Read, Evaluate, Print Loop)
+
+In order to access the REPL, in IntelliJ, select:
+Tools -> Kotlin -> Kotlin REPL
+
+Write your expression and press Ctrl + Enter (Command + Return) keys to run
+your expression.
+
